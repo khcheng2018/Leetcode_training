@@ -1,5 +1,6 @@
 # Leetcode_training
-I started to do programming training on Leetcode on 23 June 2023. 
+I started to do programming training on Leetcode on 23 June 2023.
+If you want to have a detailed description of  problems, please visit Leetcode.com.
 
 # List of problems I solved
 | Title  | Difficulty | Time |
