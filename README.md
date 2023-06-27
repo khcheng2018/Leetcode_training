@@ -12,3 +12,4 @@ If you want to have a detailed description of  problems, please visit Leetcode.c
 | 27. Remove Element  | Easy  | 25/6/2023 |
 | 12. Integer to Roman  | Medium  | 25/6/2023 |
 | 4. Median of Two Sorted Arrays  | Hard  | 26/6/2023 |
+| 275. H-Index II  | Medium  | 27/6/2023 |
