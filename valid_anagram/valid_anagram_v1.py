@@ -20,6 +20,4 @@ class Solution(object):
                     count_t = count_t + 1
             if (count_s != count_t):
                 return False
-            s = s.replace(string.ascii_lowercase[i],'')
-            t = t.replace(string.ascii_lowercase[i],'')
         return True
