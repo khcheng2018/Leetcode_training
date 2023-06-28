@@ -13,3 +13,4 @@ If you want to have a detailed description of  problems, please visit Leetcode.c
 | 12. Integer to Roman  | Medium  | 25/6/2023 |
 | 4. Median of Two Sorted Arrays  | Hard  | 26/6/2023 |
 | 275. H-Index II  | Medium  | 27/6/2023 |
+| 242. Valid Anagram  | Easy  | 28/6/2023 |
