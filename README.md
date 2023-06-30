@@ -16,3 +16,4 @@ If you want to have a detailed description of  problems, please visit Leetcode.c
 | 274. H-Index  | Medium  | 27/6/2023 |
 | 242. Valid Anagram  | Easy  | 28/6/2023 |
 | 17. Letter Combinations of a Phone Number  | Medium  | 29/6/2023 |
+| 6. Zigzag Conversion  | Medium  | 30/6/2023 |
