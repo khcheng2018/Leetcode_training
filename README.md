@@ -19,3 +19,4 @@ If you want to have a detailed description of  problems, please visit Leetcode.c
 | 6. Zigzag Conversion  | Medium  | 30/6/2023 |
 | 58. Length of Last Word  | Easy  | 30/6/2023 |
 | 88. Merge Sorted Array  | Easy  | 30/6/2023 |
+| 28. Find the Index of the First Occurrence in a String  | Easy  | 10/7/2023 |
