@@ -21,3 +21,4 @@ If you want to have a detailed description of  problems, please visit Leetcode.c
 | 88. Merge Sorted Array  | Easy  | 30/6/2023 |
 | 28. Find the Index of the First Occurrence in a String  | Easy  | 10/7/2023 |
 | 26. Remove Duplicates from Sorted Array  | Easy  | 10/7/2023 |
+| 14. Longest Common Prefix  | Easy  | 21/7/2023 |
